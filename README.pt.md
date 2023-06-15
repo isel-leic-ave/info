@@ -12,15 +12,15 @@
 #### Informações suplementares
 *As informações abaixo são fornecidas por conveniência, mas estão incompletas, não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais.*
 
-| Informações Gerais        |                                        |
-|---------------------------|----------------------------------------|
-| Área Científica           | Informática e Computadores             |
-| Créditos ECTS             | 6 créditos                             |
-| Grau, Ano/Semestre        | Licenciatura, 2º ano / 4º semestre     |
-| Língua                    | Português ou Inglês                    |
-| Disponível em             | Semestre Primavera/Verão (Fev. - Jul.) |
-| Horas de contacto em aula | 15 semanas x 4,5 horas/semana em aula  |
-| Docente responsável       | [Miguel Gamboa](miguel.gamboa@isel.pt) |
+| Informações Gerais        |                                               |
+|---------------------------|-----------------------------------------------|
+| Área Científica           | Informática e Computadores                    |
+| Créditos ECTS             | 6 créditos                                    |
+| Grau, Ano/Semestre        | Licenciatura, 2º ano / 4º semestre            |
+| Língua                    | Português ou Inglês                           |
+| Disponível em             | Semestre Primavera/Verão (Fev. - Jul.)        |
+| Horas de contacto em aula | 15 semanas x 4,5 horas/semana em aula         |
+| Docente responsável       | [Miguel Gamboa](mailto:miguel.gamboa@isel.pt) |
 
 #### Descrição
 ...
