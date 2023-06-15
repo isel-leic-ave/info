@@ -10,7 +10,6 @@
 ---
 
 #### Informações suplementares
-*As informações abaixo são fornecidas por conveniência, mas estão incompletas, não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais.*
 
 | Informações Gerais        |                                               |
 |---------------------------|-----------------------------------------------|
@@ -30,3 +29,5 @@ Ao longo do semestre, os alunos trabalham em grupos para resolver um conjunto de
 #### Pré-requisitos
 * Conhecimento efetivo de Java ou Kotlin, com pelo menos dois semestres (mas idealmente três) de experiência prática de desenvolvimento de software com uma destas linguagens. Conhecimento sólido equivalente de Scala ou C# é também aceitável, mas pode exigir um esforço adicional de adaptação.
 * Espera-se familiariedade com os elementos essenciais de arquitetura de computadores, redes IP e tecnologias web. Embora estes não sejam aspetos centrais desta unidade curricular, poderão aparecer em exemplos e a suportar a apresentação de outros tópicos, bem como fazer parte dos trabalhos práticos.
+
+*Aviso: as informações acima são fornecidas por conveniência e não substituem a informação institutional oficial.*
