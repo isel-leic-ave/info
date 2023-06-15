@@ -10,7 +10,6 @@
 ---
 
 #### Supplementary information
-*The information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information.*
 
 | General Information    |                                               |
 |------------------------|-----------------------------------------------|
@@ -30,3 +29,5 @@ During the semester, you will work in groups to complete coursework assignments 
 #### Prerequisites
 * Good working knowledge of Java or Kotlin, with at least two semesters (but ideally three) of practical experience developing software with one of these languages. Equivalent solid knowledge of Scala or C# is also acceptable, but may require more effort to adapt.
 * We expect students to be familiar with basic computer architecture, IP networks and essential web technologies. Although these are not central topics in this course unit, they may appear in examples and to support discussions, as well as be a part of coursework assignments.
+
+*Disclaimer: The above information is provided for convenience and does not replace official institutional information.*
