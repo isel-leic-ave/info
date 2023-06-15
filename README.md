@@ -12,15 +12,15 @@
 #### Supplementary information
 *The information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information.*
 
-| General Information    |                                        |
-|------------------------|----------------------------------------|
-| Scientific Area        | Computer Science and Engineering       |
-| ECTS Credit Points     | 6 credit points                        |
-| Level, Year/Semester   | Undergraduate, 2rd year / 4th semester |
-| Language               | English or Portuguese                  |
-| Available in           | Spring-Summer Semester (Feb. - Jul.)   |
-| In-class contact hours | 15 weeks x 4.5 hours per week in class |
-| Course Manager         | [Miguel Gamboa](miguel.gamboa@isel.pt) |
+| General Information    |                                               |
+|------------------------|-----------------------------------------------|
+| Scientific Area        | Computer Science and Engineering              |
+| ECTS Credit Points     | 6 credit points                               |
+| Level, Year/Semester   | Undergraduate, 2rd year / 4th semester        |
+| Language               | English or Portuguese                         |
+| Available in           | Spring-Summer Semester (Feb. - Jul.)          |
+| In-class contact hours | 15 weeks x 4.5 hours per week in class        |
+| Course Manager         | [Miguel Gamboa](mailto:miguel.gamboa@isel.pt) |
 
 #### Description
 A considerable amount of contemporary software is targeted to run in some instance of software mediated execution environment, usually called a *managed runtime environment* or a *virtual execution environment*. The Java Virtual Machine (JVM), originally designed to run software written in Java, is one of such environments and is currently a target for other relevant programming languages, such as Kotlin, Scala, Groovy or Clojure. Microsoft has its own managed runtime, the Common Language Runtime (CLR), which is the natural target for several .NET languages, presenting many similar characteristics and functionalities to those of the JVM. In this course unit, we explore these kind of execution enviroments, the programming languages that target them, and programming techniques that take full advantage of the capabilities that they expose.
