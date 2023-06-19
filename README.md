@@ -22,9 +22,37 @@
 | Course Manager         | [Miguel Gamboa](mailto:miguel.gamboa@isel.pt) |
 
 #### Description
-A considerable amount of contemporary software is targeted to run in some instance of software mediated execution environment, usually called a *managed runtime environment* or a *virtual execution environment*. The Java Virtual Machine (JVM), originally designed to run software written in Java, is one of such environments and is currently a target for other relevant programming languages, such as Kotlin, Scala, Groovy or Clojure. Microsoft has its own managed runtime, the Common Language Runtime (CLR), which is the natural target for several .NET languages, presenting many similar characteristics and functionalities to those of the JVM. In this course unit, we explore these kind of execution enviroments, the programming languages that target them, and programming techniques that take full advantage of the capabilities that they expose.
+A considerable amount of contemporary software is targeted to run in some
+instance of a software-mediated execution environment, usually called a *managed
+runtime environment* or a *virtual execution environment*. 
+The [Java Virtual Machine](https://openjdk.org/groups/hotspot) (JVM),
+originally designed to run software written in Java, is one of such environments
+and is currently a target for other relevant programming languages, such as
+Kotlin, Scala, Groovy or Clojure. 
+Microsoft has its own managed runtime, the 
+[.NET Runtime](https://github.com/dotnet/runtime) (formerly known as the Common
+Language Runtime or CLR), which is the natural target for several .NET
+languages.
+It presents many similar characteristics and functionalities to those of the JVM.
 
-During the semester, you will work in groups to complete coursework assignments that allow you to explore these capabilities and techniques, using the JVM as the main runtime environment, and using both Java and Kotlin as programming languages, also exploring their interoperability. Along the way, you will get familiar with tools to evaluate and analyze the performance and behaviour of software running in this environment.
+In this course unit, we explore these kind of execution enviroments, the
+programming languages that target them, and programming techniques that take
+full advantage of the capabilities that they expose.
+During the semester, you will work in groups to complete coursework assignments
+that will allow you to explore the capabilities and techniques of managed
+runtime environments, with a focus on the Java Virtual Machine (JVM). 
+Those assignments provide you with the opportunity to gain hands-on experience
+in implementing frameworks similar to industry-standard ones, such as the
+well-known Spring MVC (e.g.
+[AutoRouter](https://github.com/isel-leic-ave/autorouter)), Jackson JSON (e.g.
+[Jsonaif](https://github.com/isel-leic-ave/jsonaif)), or AutoMapper, among
+others.
+
+You will use both Java and Kotlin as programming languages, exploring their
+interoperability within the JVM ecosystem. 
+Throughout the course, you will also become familiar with tools that enable you
+to evaluate and analyze the performance and behavior of software running in this
+environment.
 
 #### Prerequisites
 * Good working knowledge of Java or Kotlin, with at least two semesters (but ideally three) of practical experience developing software with one of these languages. Equivalent solid knowledge of Scala or C# is also acceptable, but may require more effort to adapt.
