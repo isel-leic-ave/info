@@ -31,8 +31,7 @@ and is currently a target for other relevant programming languages, such as
 Kotlin, Scala, Groovy or Clojure. 
 Microsoft has its own managed runtime, the 
 [.NET Runtime](https://github.com/dotnet/runtime),
-which is the natural target for several .NET languages.
-It presents many similar characteristics and functionalities to those of the JVM.
+which is the natural target for several .NET languages and presents many similar characteristics and functionalities to those of the JVM.
 
 In this course unit, we explore these kind of execution enviroments, the
 programming languages that target them, and programming techniques that take
@@ -49,8 +48,8 @@ or AutoMapper, among others.
 You will use both Java and Kotlin as programming languages, exploring their
 interoperability within the JVM ecosystem. 
 Throughout the course, you will also become familiar with tools that enable you
-to evaluate and analyze the performance and behavior of software running in this
-environment.
+to evaluate and analyze the performance and behavior of software running in these
+environments.
 
 #### Prerequisites
 * Good working knowledge of Java or Kotlin, with at least two semesters (but ideally three) of practical experience developing software with one of these languages. Equivalent solid knowledge of Scala or C# is also acceptable, but may require more effort to adapt.
