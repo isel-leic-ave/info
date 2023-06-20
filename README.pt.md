@@ -22,9 +22,17 @@
 | Docente responsável       | [Miguel Gamboa](mailto:miguel.gamboa@isel.pt) |
 
 #### Descrição
-Um volume considerável de software desenvolvido atualmente tem como alvo algum tipo de ambiente de execução mediado por software, usualmente designado como *managed runtime environment* ou *ambiente virtual de execução*. A Máquina Virtual Java - ou *Java Virtual Machine* (JVM), em inglês - originalmente desenhada para executar software escrito em Java, é um desses ambientes e serve atualmente de alvo para outras linguagens de programação relevantes, como Kotlin, Scala, Groovy ou Clojure. A Microsoft tem o seu próprio *managed runtime*, o *Common Language Runtime* (CLR), que é a plataforma alvo natural para as linguagens .NET, apresentando várias características e funcionalidades semelhantes às da JVM. Nesta unidade curricular, exploramos este tipo de ambientes de execução, as linguagens que os têm como alvo e técnicas de programação que tiram partido das capacidades que eles expõem.
+Um volume considerável de software desenvolvido atualmente tem como alvo algum tipo de ambiente de execução mediado por software, usualmente designado como *managed runtime environment* ou *ambiente virtual de execução*. A Máquina Virtual Java - ou [Java Virtual Machine](https://openjdk.org/groups/hotspot) (JVM), em inglês - originalmente desenhada para executar software escrito em Java, é um desses ambientes e serve atualmente de alvo para outras linguagens de programação relevantes, como Kotlin, Scala, Groovy ou Clojure. A Microsoft tem o seu próprio *managed runtime*, o [.NET Runtime](https://github.com/dotnet/runtime), que é a plataforma alvo natural para as linguagens .NET, apresentando várias características e funcionalidades semelhantes às da JVM. Nesta unidade curricular, exploramos este tipo de ambientes de execução, as linguagens que os têm como alvo e técnicas de programação que tiram partido das capacidades que eles expõem.
 
-Ao longo do semestre, os alunos trabalham em grupos para resolver um conjunto de problemas práticos que permitem explorar estas capacidades e técnicas, tendo a JVM como ambiente de execução principal e usando Java e Kotlin como linguagens de programação, explorando também a sua interoperabilidade. Durante este percurso, irão ainda familiarizar-se com ferramentas para avaliar e analisar o desempenho e o comportamento de software que se executa nestes ambientes.
+Ao longo do semestre, os alunos trabalham em grupos para resolver um conjunto de problemas práticos que permitem explorar estas capacidades e técnicas, tendo a JVM como ambiente de execução principal.
+Estes trabalhos dão a oportunidade de os alunos adquirirem expriência prática no 
+desenvolivmento de frameworks semelhantes às usadas na indústria, tais como
+[AutoRouter](https://github.com/isel-leic-ave/autorouter) (inspirado pela Spring MVC),
+[Jsonaif](https://github.com/isel-leic-ave/jsonaif) (inspirado pelo Jackson JSON),
+ou AutoMapper, além de outros.
+
+São usadas as linguagens de programação Java e Kotlin, explorando também a sua interoperabilidade. 
+Durante este percurso, irão ainda familiarizar-se com ferramentas para avaliar e analisar o desempenho e o comportamento de software que se executa nestes ambientes.
 
 #### Pré-requisitos
 * Conhecimento efetivo de Java ou Kotlin, com pelo menos dois semestres (mas idealmente três) de experiência prática de desenvolvimento de software com uma destas linguagens. Conhecimento sólido equivalente de Scala ou C# é também aceitável, mas pode exigir um esforço adicional de adaptação.

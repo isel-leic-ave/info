@@ -30,9 +30,8 @@ originally designed to run software written in Java, is one of such environments
 and is currently a target for other relevant programming languages, such as
 Kotlin, Scala, Groovy or Clojure. 
 Microsoft has its own managed runtime, the 
-[.NET Runtime](https://github.com/dotnet/runtime) (formerly known as the Common
-Language Runtime or CLR), which is the natural target for several .NET
-languages.
+[.NET Runtime](https://github.com/dotnet/runtime),
+which is the natural target for several .NET languages.
 It presents many similar characteristics and functionalities to those of the JVM.
 
 In this course unit, we explore these kind of execution enviroments, the
@@ -43,10 +42,9 @@ that will allow you to explore the capabilities and techniques of managed
 runtime environments, with a focus on the Java Virtual Machine (JVM). 
 Those assignments provide you with the opportunity to gain hands-on experience
 in implementing frameworks similar to industry-standard ones, such as the
-well-known Spring MVC (e.g.
-[AutoRouter](https://github.com/isel-leic-ave/autorouter)), Jackson JSON (e.g.
-[Jsonaif](https://github.com/isel-leic-ave/jsonaif)), or AutoMapper, among
-others.
+[AutoRouter](https://github.com/isel-leic-ave/autorouter) (inspired by Spring MVC),
+[Jsonaif](https://github.com/isel-leic-ave/jsonaif) (inspired by Jackson JSON),
+or AutoMapper, among others.
 
 You will use both Java and Kotlin as programming languages, exploring their
 interoperability within the JVM ecosystem. 
